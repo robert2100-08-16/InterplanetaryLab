@@ -48,8 +48,8 @@ Wir beschäftigen uns mit Themen wie:
 
 ## Kontakt
 
-- **Website**: [interplanetary.com](https://interplanetary.com)
-- **E-Mail**: [info@interplanetary.com](mailto:info@interplanetary.com)
+- **Website**: [interplanetarylab.com](https://interplanetarylab.com)
+- **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com)
 
 Vielen Dank fürs Reinschauen und Mitmachen!
 
@@ -105,7 +105,7 @@ We focus on topics such as:
 
 ## Contact
 
-- **Website**: [interplanetary.com](https://interplanetary.com)
-- **E-Mail**: [info@interplanetary.com](mailto:info@interplanetary.com)
+- **Website**: [interplanetarylab.com](https://interplanetarylab.com)
+- **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com)
 
 Thank you for visiting and contributing!
