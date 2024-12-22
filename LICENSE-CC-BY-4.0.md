@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-© 2024 Dein Name / InterplanetaryLab. 
+© 2024 Robert Alexander Massinger, Munich, Germany / InterplanetaryLab. 
 
 Dies ist eine Zusammenfassung der CC BY 4.0-Lizenz. 
 Du darfst dieses Werk verbreiten und abwandeln, solange du den Urheber korrekt nennst. 
