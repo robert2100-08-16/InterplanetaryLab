@@ -1,3 +1,5 @@
+# Orbitecture
+
 Ein interessantes Zukunftsszenario wäre, interplanetare Reisen so zu gestalten, dass bestimmte Infrastruktur dauerhaft im Orbit bleibt und von verschiedenen Raumfahrzeugen genutzt werden kann – eine Art „modulares Transportsystem“. Einige Ideen, welche Module oder Komponenten man sich dafür vorstellen könnte:
 
 ---
