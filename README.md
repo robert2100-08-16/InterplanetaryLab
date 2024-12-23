@@ -3,7 +3,7 @@
 **Deutsch** | [English](#interplanetarylab-english)
 
 **Offene Konzepte und Quellcode für modulare und nachhaltige Raumfahrt**  
-Willkommen im InterplanetaryLab! Dieses Repository soll Ideen, Analysen und Start-up-Konzepte rund um das Thema interplanetare Raumfahrt bündeln. Neben ausführlichen Texten und Grafiken (unter CC-BY-4.0) findest du hier auch Code und Tools (unter MIT-Lizenz).
+Willkommen im InterplanetaryLab! Dieses Repository bündelt Ideen, Analysen und Start-up-Konzepte rund um das Thema interplanetare Raumfahrt. Neben ausführlichen Texten und Grafiken (unter CC-BY-4.0) findest du hier auch Code und Tools (unter MIT-Lizenz).
 
 ## Inhaltsverzeichnis
 
@@ -42,9 +42,18 @@ Wir beschäftigen uns mit Themen wie:
 
 ## Mitmachen
 
-1. **Issues**: Eröffne ein Issue, wenn du Fehler findest, Fragen hast oder Vorschläge machen möchtest.  
-2. **Pull Requests**: Bei größeren Änderungen bitte zuerst ein Issue erstellen und dein Vorhaben diskutieren.  
-3. **Ideen & Essays**: Gern kannst du deine eigenen Ideen und Konzepte (Markdown/Diagramme) in `docs/` beitragen. Bitte kennzeichne deine Autoreninformationen in den entsprechenden Dateien.
+Wir freuen uns über deinen Beitrag! Hier ist eine Übersicht, wie du mitmachen kannst:
+
+1. **Feedback geben**: 
+   - Erstelle ein [Issue](https://github.com/robert2100-08-16/InterplanetaryLab/issues), wenn du Fehler findest oder Fragen hast. 
+2. **Inhalte beitragen**:  
+   - Lade Ideen und Konzepte (z. B. Markdown-Dokumente oder Diagramme) in den Ordner `docs/` hoch. 
+   - Stelle sicher, dass du dich in der jeweiligen Datei als Autor*in kennzeichnest.
+3. **Code verbessern**:  
+   - Erstelle ein Issue, bevor du größere Änderungen vornimmst, und diskutiere dein Vorhaben.
+   - Sende einen Pull Request, nachdem deine Änderungen abgeschlossen sind.
+
+Bitte halte dich an diese Kategorien, um für alle eine klare Struktur zu gewährleisten.
 
 ## Kontakt
 
@@ -60,7 +69,7 @@ Vielen Dank fürs Reinschauen und Mitmachen!
 [Deutsch](#interplanetarylab) | **English**
 
 **Open concepts and source code for modular and sustainable spaceflight**  
-Welcome to InterplanetaryLab! This repository aims to gather ideas, analyses, and startup concepts related to interplanetary spaceflight. In addition to detailed texts and graphics (licensed under CC-BY-4.0), you’ll also find code and tools (licensed under the MIT License).
+Welcome to InterplanetaryLab! This repository gathers ideas, analyses, and startup concepts related to interplanetary spaceflight. In addition to detailed texts and graphics (licensed under CC-BY-4.0), you’ll also find code and tools (licensed under the MIT License).
 
 ## Table of Contents
 
@@ -99,13 +108,22 @@ We focus on topics such as:
 
 ## How to Contribute
 
-1. **Issues**: Create an issue if you find bugs, have questions, or want to propose ideas.  
-2. **Pull Requests**: For larger changes, please open an issue first to discuss your approach.  
-3. **Ideas & Essays**: You’re welcome to contribute your own ideas and concepts (Markdown/diagrams) in `docs/`. Please include author information in the respective files.
+We’d love your contributions! Here’s how you can get involved:
+
+1. **Provide feedback**:  
+   - Open an [issue](https://github.com/robert2100-08-16/InterplanetaryLab/issues) if you find bugs or have questions.
+2. **Contribute content**:  
+   - Upload your ideas and concepts (e.g., Markdown documents or diagrams) to the `docs/` folder. 
+   - Make sure to include author information in the respective files.
+3. **Improve code**:  
+   - Create an issue to discuss your plans before making significant changes.
+   - Submit a pull request after finalizing your changes.
+
+Please follow these categories to maintain a clear structure for all contributors.
 
 ## Contact
 
-- **Website**: [interplanetarylab.com](https://interplanetarylab.com) (comming soon, still under construction)
-- **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com) (comming soon, still under construction)
+- **Website**: [interplanetarylab.com](https://interplanetarylab.com) (coming soon, still under construction)
+- **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com) (coming soon, still under construction)
 
 Thank you for visiting and contributing!
