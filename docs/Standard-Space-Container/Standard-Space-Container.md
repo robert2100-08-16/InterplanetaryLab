@@ -133,6 +133,9 @@ Die Vereinheitlichung von Maßen und Anschlüssen ermöglicht eine reibungslose 
 - Einfache Transport- und Integrationsfähigkeit  
 - Breites Feld an Start-up-Möglichkeiten
 
+<sub>© 2024, Robert Alexander Massinger (Urheber / Rechteinhaber). Teile des Inhalts erstellt mithilfe von GPT o1.  
+Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)</sub>
+
 ---
 
 [Deutsch](#deutsche-version) | **English**
@@ -270,3 +273,6 @@ A standardized, modular container system offers a scalable, cost-effective, and 
 - Long-term autonomy  
 - Easy transport and integration  
 - Extensive start-up opportunities
+
+<sub>© 2024, Robert Alexander Massinger (Author / Rights Holder). Parts of the content were created using GPT o1.
+License: CC BY 4.0</sub>
