@@ -1,0 +1,19 @@
+Standard Industrial, Transport, Supply and Residential Containers for Space Delivery, Space Production & Space Live Support & Space Housing & Moon and Planetary Colonization
+
+Have standardized industrial, transport, supply and residential containers.
+
+For space delivery, space production and space live support as well as space housing and moon and planetary colonization, research stations, outposts through to Space long-term travel.
+
+Residential containers with power, data, heat & waste heat, water & sewage, air & exhaust air supply connections, plus cosmic radiation shielding.
+
+Transport container with power, data, heat & waste heat, if necessary water & sewage, if necessary air & exhaust air supply connections, if necessary plus cosmic radiation shielding.
+
+Industrial container with power, data, heat & waste heat, if necessary water & sewage, if necessary air & exhaust air, if necessary material input & material output supply connections, if necessary plus cosmic radiation shielding.
+
+Supply container with power, data, heat & waste heat, if  necessary water & sewage, if necessary air & exhaust air, if  necessary material input & material output connections, if  necessary plus cosmic radiation shielding.
+
+Standardized Sizes: e.g. 12 m x 3 m x 3 m, 9 m x 4.5 m x 4.5 m, ...
+
+The supply containers were worked out with tanks, generators, greenhouses, air treatment, water treatment, life support systems. These plus external systems such as solar collectors, radiators, communication systems, observation systems, solar mirrors, material hatches, personnel hatches and drive systems make container clusters independent of third-party facilities.
+
+A clustering to implement artificial gravity due to rotation is also in mind.
