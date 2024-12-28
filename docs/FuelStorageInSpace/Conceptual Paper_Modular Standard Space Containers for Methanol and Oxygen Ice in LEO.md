@@ -170,7 +170,7 @@ This conceptual framework outlines a robust and scalable strategy for storing me
 
 ---
 
-## **Appendix A: Proposed Testing Sequence (Newly Added)**  
+## **Appendix A: Proposed Testing Sequence**  
 
 1. **Ground Demonstration (2024-2025)**  
    - Fabricate scaled-down SSC prototypes for cryogenic testing in lab conditions.  
