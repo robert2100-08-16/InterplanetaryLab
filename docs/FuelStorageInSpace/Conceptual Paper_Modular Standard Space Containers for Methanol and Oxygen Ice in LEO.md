@@ -140,7 +140,7 @@ Efficient storage of volatile compounds, such as methanol and oxygen ice, in spa
 
 ---
 
-## **9. Future Development Roadmap (Newly Added)**  
+## **9. Future Development Roadmap**  
 ### **9.1 Advanced Materials Integration**
 - **High-Performance Composites:**  
   - Develop next-generation composite layers for improved thermal performance and reduced mass.  
