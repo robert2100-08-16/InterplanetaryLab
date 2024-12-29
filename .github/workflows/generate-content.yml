@@ -17,13 +17,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-
-      - name: Install dependencies (falls du welche brauchst)
-        run: npm install
-
+          
       - name: Generate content
         run: |
-          node scripts/generate-content.js
+          node .github/scripts/generate-content.js
 
       - name: Commit and push changes
         run: |
