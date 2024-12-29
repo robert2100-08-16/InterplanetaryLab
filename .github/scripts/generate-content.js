@@ -65,12 +65,7 @@ function walkDir(currentDir) {
 
   fs.writeFileSync(path.join(currentDir, 'content.html'), contentHtml);
 
-  // Falls README.md nicht existiert, erstellen
-  const readmePath = path.join(currentDir, 'README.md');
-  if (!fs.existsSync(readmePath)) {
-    const readmeContent = `# ${path.basename(currentDir)}\n\n[Inhalt anzeigen](content.html)`;
-    fs.writeFileSync(readmePath, readmeContent);
-  }
+  updateReadme(currentDir);
 }
 
 /**
@@ -79,23 +74,69 @@ function walkDir(currentDir) {
 function updateReadme(dir) {
   const readmePath = path.join(dir, 'README.md');
   const relContentHtml = 'content.html';
+  const absolutePath = path.resolve(dir);
 
   let readmeContent = '';
 
-  // Schau, ob es die README schon gibt
+  // Check if README.md exists
   if (fs.existsSync(readmePath)) {
     readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
-    // Falls noch kein Link drinsteht, ergänzen wir ihn
-    if (!readmeContent.includes(relContentHtml)) {
-      readmeContent += `\n\n[Zeige Inhaltsübersicht](${relContentHtml})\n`;
-      fs.writeFileSync(readmePath, readmeContent, 'utf-8');
-    }
+    // Split content by language sections
+    const sections = readmeContent.split(/(?=## [^#])/);
+    const updatedSections = sections.map(section => {
+      if (section.includes('**Deutsch**')) {
+        if (!section.includes(relContentHtml)) {
+          return section.trim() + `\n\n[Zeige Inhaltsübersicht](${relContentHtml})\n\n---\n`;
+        }
+      } else if (section.includes('**English**')) {
+        if (!section.includes(relContentHtml)) {
+          return section.trim() + `\n\n[Show content overview](${relContentHtml})\n\n---\n`;
+        }
+      }
+      return section;
+    });
+
+    readmeContent = updatedSections.join('\n');
+    fs.writeFileSync(readmePath, readmeContent, 'utf-8');
   } else {
-    // Neue README erstellen
-    readmeContent = `# ${path.basename(dir)}
+    // Create new README.md with both German and English sections
+    readmeContent = `# Dokumentation & Konzepte
+
+**Deutsch** | [English](#documentation--concepts)
+
+In diesem Ordner (${absolutePath}) sammeln wir alle **offen lizenzierten** Essays, Konzepte und Analysen sowie Grafiken und Videos, 
+die sich mit interplanetarer Raumfahrt, modularem Habitat-Design, Antriebsarten und anderen Zukunftstechnologien 
+zum Thema **${absolutePath}** beschäftigen.
+
+## Lizenz
+
+Alle Inhalte in diesem Verzeichnis stehen unter der  
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE-CC-BY-4.0.md).
+
+Bitte stelle sicher, dass du bei Weiterverwendung auf uns verlinkst und den entsprechenden Lizenzvermerk beilegst.  
+Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 
 [Zeige Inhaltsübersicht](${relContentHtml})
+
+---
+
+# Documentation & Concepts
+
+[Deutsch](#dokumentation--konzepte) | **English**
+
+In this folder (${absolutePath}), we collect all **openly licensed** essays, concepts, and analyses as well as graphics and videos 
+related to interplanetary space travel, modular habitat design, propulsion systems, and other future space technologies 
+about **${absolutePath}**.
+
+## License
+
+All content in this directory is provided under the  
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE-CC-BY-4.0.md).
+
+[Show content overview](${relContentHtml})
+
+---
 `;
     fs.writeFileSync(readmePath, readmeContent, 'utf-8');
   }
