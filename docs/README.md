@@ -5,6 +5,10 @@
 In diesem Ordner sammeln wir alle **offen lizenzierten** Essays, Konzepte und Analysen sowie Grafiken und Videos, 
 die sich mit interplanetarer Raumfahrt, modularem Habitat-Design, Antriebsarten und anderen Zukunftstechnologien beschäftigen.
 
+[Zeige Inhaltsübersicht](content.html)
+
+---
+
 ## Lizenz
 
 Alle Inhalte in diesem Verzeichnis stehen unter der  
@@ -21,6 +25,10 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 
 In this folder, we collect all **openly licensed** essays, concepts, and analyses as well as graphics and videos 
 related to interplanetary space travel, modular habitat design, propulsion systems, and other future space technologies.
+
+[Show content overview](content.html)
+
+---
 
 ## License
 
