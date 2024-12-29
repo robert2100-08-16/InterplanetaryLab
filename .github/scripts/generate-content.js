@@ -4,10 +4,10 @@ const fs = require('fs');
 const path = require('path');
 
 // Verzeichnisse ausschließen, z. B. .git, node_modules etc.
-const EXCLUDED_DIRS = new Set(['.git', 'node_modules', '.github', '.gitignore', 'website', 'src']);
+const EXCLUDED_DIRS = new Set(['content.html', '.git', 'node_modules', '.github', '.gitignore', 'website', 'src', 'CNAME']);
 
 // Einstiegspunkt (Root des Repos), von wo aus rekursiv gesucht werden soll
-const ROOT_DIR = path.resolve(__dirname, '..');
+const ROOT_DIR = path.resolve(__dirname, '..', '..');
 
 /**
  * Durchläuft rekursiv das Verzeichnis und generiert pro Verzeichnis
@@ -22,12 +22,12 @@ function main() {
  * Rekursive Funktion, die durch alle Unterordner geht
  */
 function walkDir(currentDir) {
-  const dirEntries = fs.readdirSync(currentDir, { withFileTypes: true });
-
   // Filter aus, was wir nicht beachten wollen
   if (shouldExclude(currentDir)) {
     return;
   }
+
+  const dirEntries = fs.readdirSync(currentDir, { withFileTypes: true });
 
   // content.html bauen
   let contentHtml = `<!DOCTYPE html>
@@ -42,40 +42,35 @@ function walkDir(currentDir) {
 `;
 
   for (const entry of dirEntries) {
-    // Auslassen, falls Verzeichnisse wie .git oder node_modules
-    if (EXCLUDED_DIRS.has(entry.name)) continue;
-
     const fullPath = path.join(currentDir, entry.name);
-    const relPath = path.relative(ROOT_DIR, fullPath);
+    if (shouldExclude(fullPath)) {
+      continue;
+    }
 
-    // Verzeichnis
+    const relPath = path.relative(currentDir, fullPath);
+
     if (entry.isDirectory()) {
-      // Rekursiver Aufruf
-      walkDir(fullPath);
-
-      // Link zum Unterordner (falls du eine eigene content.html im Unterordner verlinken möchtest)
-      contentHtml += `    <li><a href="${relPath}/content.html">${entry.name}/</a></li>\n`;
-    } 
-    // Datei
-    else if (entry.isFile()) {
-      // Link auf die Datei selbst (z. B. raw file)
-      // Oder auf eine Seite, die die Datei rendert
-      // Hier nur ein simpler Link auf das Repo selbst (raw oder normal):
-      contentHtml += `    <li><a href="../${relPath}" target="_blank">${entry.name}</a></li>\n`;
+      contentHtml += `<li><a href="${relPath}/content.html">${entry.name}/</a></li>`;
+      walkDir(fullPath); // Rekursiv in das Unterverzeichnis gehen
+    } else {
+      contentHtml += `<li><a href="${relPath}">${entry.name}</a></li>`;
     }
   }
 
   contentHtml += `
   </ul>
 </body>
-</html>`;
+</html>
+`;
 
-  // content.html schreiben
-  fs.writeFileSync(path.join(currentDir, 'content.html'), contentHtml, 'utf-8');
+  fs.writeFileSync(path.join(currentDir, 'content.html'), contentHtml);
 
-  // README updaten oder anlegen
-  updateReadme(currentDir);
-
+  // Falls README.md nicht existiert, erstellen
+  const readmePath = path.join(currentDir, 'README.md');
+  if (!fs.existsSync(readmePath)) {
+    const readmeContent = `# ${path.basename(currentDir)}\n\n[Inhalt anzeigen](content.html)`;
+    fs.writeFileSync(readmePath, readmeContent);
+  }
 }
 
 /**
