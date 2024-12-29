@@ -54,8 +54,8 @@ function walkDir(currentDir) {
       walkDir(fullPath); // Rekursiv in das Unterverzeichnis gehen
     } else if (entry.name == 'README.md') {
       // README.md wird angezeigt, wenn auf das zugehörige directory verlinkt wird 
-      relPath -= 'README.md';
-      contentHtml += `<li><a href="${relPath}">${entry.name}</a></li>`;
+      const modifiedRelPath = relPath.replace('README.md', '');
+      contentHtml += `<li><a href="${modifiedRelPath}">${entry.name}</a></li>`;
     } else {
       contentHtml += `<li><a href="${relPath}">${entry.name}</a></li>`;
     }
