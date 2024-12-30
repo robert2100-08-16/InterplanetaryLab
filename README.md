@@ -169,3 +169,27 @@ Please follow these categories to maintain a clear structure for all contributor
 - **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com) (coming soon, still under construction)
 
 Thank you for visiting and contributing!
+
+<!-- AUTO-GENERATED-TOC-DE:START -->
+
+## Inhaltsverzeichnis für „InterplanetaryLab“
+
+- [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
+- [LICENSE-MIT.md](./LICENSE-MIT.md)
+- [README.md](./README.md)
+- [content.html](./content.html)
+- [docs/](./docs/)
+
+<!-- AUTO-GENERATED-TOC-DE:END -->
+
+<!-- AUTO-GENERATED-TOC-EN:START -->
+
+## Table of Contents for "InterplanetaryLab"
+
+- [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
+- [LICENSE-MIT.md](./LICENSE-MIT.md)
+- [README.md](./README.md)
+- [content.html](./content.html)
+- [docs/](./docs/)
+
+<!-- AUTO-GENERATED-TOC-EN:END -->

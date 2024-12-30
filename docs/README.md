@@ -41,3 +41,27 @@ All content in this directory is provided under the
 
 Please ensure that you provide proper attribution and include the license notice when redistributing.  
 The authorship belongs to [Project Name / Team Name / Your Name].
+
+<!-- AUTO-GENERATED-TOC-DE:START -->
+
+## Inhaltsverzeichnis für „docs“
+
+- [FuelStorageInSpace/](./FuelStorageInSpace/)
+- [Orbitecture/](./Orbitecture/)
+- [README.md](./README.md)
+- [Standard-Space-Container/](./Standard-Space-Container/)
+- [content.html](./content.html)
+
+<!-- AUTO-GENERATED-TOC-DE:END -->
+
+<!-- AUTO-GENERATED-TOC-EN:START -->
+
+## Table of Contents for "docs"
+
+- [FuelStorageInSpace/](./FuelStorageInSpace/)
+- [Orbitecture/](./Orbitecture/)
+- [README.md](./README.md)
+- [Standard-Space-Container/](./Standard-Space-Container/)
+- [content.html](./content.html)
+
+<!-- AUTO-GENERATED-TOC-EN:END -->
