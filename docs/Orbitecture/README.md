@@ -8,7 +8,6 @@
 
 - [Orbitecture.md](./Orbitecture.md)
 - [README.md](./README.md)
-- [content.html](./content.html)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -18,6 +17,5 @@
 
 - [Orbitecture.md](./Orbitecture.md)
 - [README.md](./README.md)
-- [content.html](./content.html)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->

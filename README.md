@@ -189,7 +189,6 @@ Thank you for visiting and contributing!
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
 - [LICENSE-MIT.md](./LICENSE-MIT.md)
 - [README.md](./README.md)
-- [content.html](./content.html)
 - [docs/](./docs/)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
@@ -201,7 +200,6 @@ Thank you for visiting and contributing!
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
 - [LICENSE-MIT.md](./LICENSE-MIT.md)
 - [README.md](./README.md)
-- [content.html](./content.html)
 - [docs/](./docs/)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
