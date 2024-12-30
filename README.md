@@ -85,7 +85,7 @@ Bitte halte dich an diese Kategorien, um für alle eine klare Struktur zu gewäh
 ## Kontakt
 
 - **Website**: [interplanetarylab.com](https://interplanetarylab.com)
-- **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com) (kommt bald, noch im Aufbau)
+- **E-Mail**: [interplanetarylab@robert-alexander-massinger-space-technologies.com](mailto:interplanetarylab@robert-alexander-massinger-space-technologies.com)
 
 Vielen Dank fürs Reinschauen und Mitmachen!
 
@@ -93,10 +93,11 @@ Vielen Dank fürs Reinschauen und Mitmachen!
 
 ## Inhaltsverzeichnis für „InterplanetaryLab“
 
+- [docs/](./docs/)
+- [Impressum.md](./Impressum.md)
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
 - [LICENSE-MIT.md](./LICENSE-MIT.md)
 - [README.md](./README.md)
-- [docs/](./docs/)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -186,7 +187,7 @@ Please follow these categories to maintain a clear structure for all contributor
 ## Contact
 
 - **Website**: [interplanetarylab.com](https://interplanetarylab.com)
-- **E-Mail**: [info@interplanetarylab.com](mailto:info@interplanetarylab.com) (coming soon, still under construction)
+- **E-Mail**: [interplanetarylab@robert-alexander-massinger-space-technologies.com](mailto:interplanetarylab@robert-alexander-massinger-space-technologies.com)
 
 Thank you for visiting and contributing!
 
@@ -195,9 +196,10 @@ Thank you for visiting and contributing!
 
 ## Table of Contents for "InterplanetaryLab"
 
+- [docs/](./docs/)
+- [Impressum.md](./Impressum.md)
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
 - [LICENSE-MIT.md](./LICENSE-MIT.md)
 - [README.md](./README.md)
-- [docs/](./docs/)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
