@@ -46,7 +46,6 @@ The authorship belongs to [Project Name / Team Name / Your Name].
 
 <!-- AUTO-GENERATED-TOC-DE:START -->
 
-
 ## Inhaltsverzeichnis für „docs“
 
 - [FuelStorageInSpace/](./FuelStorageInSpace/)
@@ -58,7 +57,6 @@ The authorship belongs to [Project Name / Team Name / Your Name].
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
 <!-- AUTO-GENERATED-TOC-EN:START -->
-
 
 ## Table of Contents for "docs"
 

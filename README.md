@@ -184,7 +184,6 @@ Thank you for visiting and contributing!
 
 <!-- AUTO-GENERATED-TOC-DE:START -->
 
-
 ## Inhaltsverzeichnis für „InterplanetaryLab“
 
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
@@ -196,7 +195,6 @@ Thank you for visiting and contributing!
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
 <!-- AUTO-GENERATED-TOC-EN:START -->
-
 
 ## Table of Contents for "InterplanetaryLab"
 
