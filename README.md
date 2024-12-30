@@ -93,11 +93,11 @@ Vielen Dank fürs Reinschauen und Mitmachen!
 
 ## Inhaltsverzeichnis für „InterplanetaryLab“
 
-- [docs/](./docs/)
 - [Impressum.md](./Impressum.md)
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
 - [LICENSE-MIT.md](./LICENSE-MIT.md)
 - [README.md](./README.md)
+- [docs/](./docs/)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -196,10 +196,10 @@ Thank you for visiting and contributing!
 
 ## Table of Contents for "InterplanetaryLab"
 
-- [docs/](./docs/)
 - [Impressum.md](./Impressum.md)
 - [LICENSE-CC-BY-4.0.md](./LICENSE-CC-BY-4.0.md)
 - [LICENSE-MIT.md](./LICENSE-MIT.md)
 - [README.md](./README.md)
+- [docs/](./docs/)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
