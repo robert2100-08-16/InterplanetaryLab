@@ -11,6 +11,7 @@ die sich mit interplanetarer Raumfahrt, modularem Habitat-Design, Antriebsarten 
 
 
 
+
 ## Lizenz
 
 Alle Inhalte in diesem Verzeichnis stehen unter der  
@@ -34,6 +35,7 @@ related to interplanetary space travel, modular habitat design, propulsion syste
 
 
 
+
 ## License
 
 All content in this directory is provided under the  
@@ -43,6 +45,7 @@ Please ensure that you provide proper attribution and include the license notice
 The authorship belongs to [Project Name / Team Name / Your Name].
 
 <!-- AUTO-GENERATED-TOC-DE:START -->
+
 
 ## Inhaltsverzeichnis für „docs“
 
@@ -55,6 +58,7 @@ The authorship belongs to [Project Name / Team Name / Your Name].
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
 <!-- AUTO-GENERATED-TOC-EN:START -->
+
 
 ## Table of Contents for "docs"
 

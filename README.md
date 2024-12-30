@@ -11,6 +11,7 @@ Willkommen im InterplanetaryLab! Dieses Repository bündelt Ideen, Analysen und 
 
 
 
+
 ## Inhaltsverzeichnis
 
 1. [Überblick](#überblick)
@@ -18,6 +19,7 @@ Willkommen im InterplanetaryLab! Dieses Repository bündelt Ideen, Analysen und 
 3. [Lizenz](#lizenz)
 4. [Mitmachen](#mitmachen)
 5. [Kontakt](#kontakt)
+
 
 
 
@@ -30,6 +32,7 @@ Wir beschäftigen uns mit Themen wie:
 - **Nuklearthermische Antriebe, Solar Electric Propulsion, etc.**
 - **Modulare Systeme für Energieerzeugung (Solar, Kernspaltung, …)**
 - **Nachhaltige Raumfahrtkonzepte und mehr**
+
 
 
 
@@ -47,6 +50,7 @@ Wir beschäftigen uns mit Themen wie:
 
 
 
+
 ## Lizenz
 
 - **Dokumente, Diagramme und sonstige kreative Inhalte**:  
@@ -54,6 +58,7 @@ Wir beschäftigen uns mit Themen wie:
 
 - **Software/Code**:  
   [MIT License](LICENSE-MIT.md)
+
 
 
 
@@ -72,6 +77,7 @@ Wir freuen uns über deinen Beitrag! Hier ist eine Übersicht, wie du mitmachen 
    - Sende einen Pull Request, nachdem deine Änderungen abgeschlossen sind.
 
 Bitte halte dich an diese Kategorien, um für alle eine klare Struktur zu gewährleisten.
+
 
 
 
@@ -98,6 +104,7 @@ Welcome to InterplanetaryLab! This repository gathers ideas, analyses, and start
 
 
 
+
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -105,6 +112,7 @@ Welcome to InterplanetaryLab! This repository gathers ideas, analyses, and start
 3. [License](#license)
 4. [How to Contribute](#how-to-contribute)
 5. [Contact](#contact)
+
 
 
 
@@ -117,6 +125,7 @@ We focus on topics such as:
 - **Nuclear thermal propulsion, solar electric propulsion, etc.**
 - **Modular systems for energy generation (solar, nuclear fission, …)**
 - **Sustainable spaceflight concepts and more**
+
 
 
 
@@ -134,6 +143,7 @@ We focus on topics such as:
 
 
 
+
 ## License
 
 - **Documents, diagrams, and other creative content**:  
@@ -141,6 +151,7 @@ We focus on topics such as:
 
 - **Software/Code**:  
   [MIT License](LICENSE-MIT.md)
+
 
 
 
@@ -163,6 +174,7 @@ Please follow these categories to maintain a clear structure for all contributor
 
 
 
+
 ## Contact
 
 - **Website**: [interplanetarylab.com](https://interplanetarylab.com) (coming soon, still under construction)
@@ -171,6 +183,7 @@ Please follow these categories to maintain a clear structure for all contributor
 Thank you for visiting and contributing!
 
 <!-- AUTO-GENERATED-TOC-DE:START -->
+
 
 ## Inhaltsverzeichnis für „InterplanetaryLab“
 
@@ -183,6 +196,7 @@ Thank you for visiting and contributing!
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
 <!-- AUTO-GENERATED-TOC-EN:START -->
+
 
 ## Table of Contents for "InterplanetaryLab"
 
