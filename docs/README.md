@@ -52,7 +52,6 @@ The authorship belongs to [Project Name / Team Name / Your Name].
 - [Orbitecture/](./Orbitecture/)
 - [README.md](./README.md)
 - [Standard-Space-Container/](./Standard-Space-Container/)
-- [content.html](./content.html)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -64,6 +63,5 @@ The authorship belongs to [Project Name / Team Name / Your Name].
 - [Orbitecture/](./Orbitecture/)
 - [README.md](./README.md)
 - [Standard-Space-Container/](./Standard-Space-Container/)
-- [content.html](./content.html)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
