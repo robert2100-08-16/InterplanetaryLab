@@ -19,6 +19,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 ## Inhaltsverzeichnis für „Orbitecture“
 
 - [Orbitecture.md](./Orbitecture.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -47,6 +48,7 @@ Authorship belongs to [Project Name / Team Name / Your Name].
 ## Table of Contents for "Orbitecture"
 
 - [Orbitecture.md](./Orbitecture.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
 
