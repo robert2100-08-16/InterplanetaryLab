@@ -19,6 +19,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 ## Inhaltsverzeichnis für „FuelStorageInSpace“
 
 - [Conceptual Paper_Modular Standard Space Containers for Methanol and Oxygen Ice in LEO.md](./Conceptual%20Paper_Modular%20Standard%20Space%20Containers%20for%20Methanol%20and%20Oxygen%20Ice%20in%20LEO.md)
+- [README.md](./README.md)
 - [content.html](./content.html)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
@@ -48,6 +49,7 @@ Authorship belongs to [Project Name / Team Name / Your Name].
 ## Table of Contents for "FuelStorageInSpace"
 
 - [Conceptual Paper_Modular Standard Space Containers for Methanol and Oxygen Ice in LEO.md](./Conceptual%20Paper_Modular%20Standard%20Space%20Containers%20for%20Methanol%20and%20Oxygen%20Ice%20in%20LEO.md)
+- [README.md](./README.md)
 - [content.html](./content.html)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
