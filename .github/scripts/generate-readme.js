@@ -170,8 +170,8 @@ about **${absolutePath}**.
 All content in this directory is provided under the  
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](../LICENSE-CC-BY-4.0.md).
 
-Please make sure to link to us and include the appropriate license notice when reusing the content.  
-Authorship belongs to [Project Name / Team Name / Your Name].
+Please ensure that proper attribution is provided and that the corresponding license notice is included when 
+redistributing or reusing this content. Authorship is attributed to [Project Name / Team Name / Your Name].
 
 ${TOC_START_EN}
 ${TOC_END_EN}
