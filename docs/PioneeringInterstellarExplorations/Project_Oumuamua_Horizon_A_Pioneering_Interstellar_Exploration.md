@@ -196,6 +196,6 @@ Please reference the Author and this License in any further use.
 
 ### Additional Disclaimer
 
-This document incorporates content generated with the assistance of GPT-4o, an AI-based tool, under the guidance and supervision of the author. GPT-4 served as a support tool for drafting and structuring the material, and the responsibility for the final content rests solely with the author.
+This document incorporates content generated with the assistance of GPT-4o, an AI-based tool, under the guidance and supervision of the author. GPT-4o served as a support tool for drafting and structuring the material, and the responsibility for the final content rests solely with the author.
 
 ---
