@@ -19,6 +19,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 ## Inhaltsverzeichnis für „docs“
 
 - [FuelStorageInSpace/](./FuelStorageInSpace/)
+- [Mars/](./Mars/)
 - [Orbitecture/](./Orbitecture/)
 - [README.md](./README.md)
 - [Standard-Space-Container/](./Standard-Space-Container/)
@@ -50,6 +51,7 @@ Authorship belongs to [Project Name / Team Name / Your Name].
 ## Table of Contents for "docs"
 
 - [FuelStorageInSpace/](./FuelStorageInSpace/)
+- [Mars/](./Mars/)
 - [Orbitecture/](./Orbitecture/)
 - [README.md](./README.md)
 - [Standard-Space-Container/](./Standard-Space-Container/)
