@@ -18,7 +18,8 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 
 ## Inhaltsverzeichnis für „Habitats“
 
-- [Development_of_a_Mars_Habitat-Three-Step Evolution-Towards-Biomimetic-and-Self-Growing-Structures.md](./Development_of_a_Mars_Habitat-Three-Step%20Evolution-Towards-Biomimetic-and-Self-Growing-Structures.md)
+- [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -46,7 +47,8 @@ redistributing or reusing this content. Authorship is attributed to [Project Nam
 
 ## Table of Contents for "Habitats"
 
-- [Development_of_a_Mars_Habitat-Three-Step Evolution-Towards-Biomimetic-and-Self-Growing-Structures.md](./Development_of_a_Mars_Habitat-Three-Step%20Evolution-Towards-Biomimetic-and-Self-Growing-Structures.md)
+- [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
 
