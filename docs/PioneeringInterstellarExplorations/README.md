@@ -19,6 +19,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 ## Inhaltsverzeichnis für „PioneeringInterstellarExplorations“
 
 - [Project_Oumuamua_Horizon_A_Pioneering_Interstellar_Exploration.md](./Project_Oumuamua_Horizon_A_Pioneering_Interstellar_Exploration.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -47,6 +48,7 @@ redistributing or reusing this content. Authorship is attributed to [Project Nam
 ## Table of Contents for "PioneeringInterstellarExplorations"
 
 - [Project_Oumuamua_Horizon_A_Pioneering_Interstellar_Exploration.md](./Project_Oumuamua_Horizon_A_Pioneering_Interstellar_Exploration.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
 
