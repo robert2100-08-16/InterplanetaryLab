@@ -21,6 +21,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 - [FuelStorageInSpace/](./FuelStorageInSpace/)
 - [Mars/](./Mars/)
 - [Orbitecture/](./Orbitecture/)
+- [PioneeringInterstellarExplorations/](./PioneeringInterstellarExplorations/)
 - [README.md](./README.md)
 - [Standard-Space-Container/](./Standard-Space-Container/)
 
@@ -53,6 +54,7 @@ Authorship belongs to [Project Name / Team Name / Your Name].
 - [FuelStorageInSpace/](./FuelStorageInSpace/)
 - [Mars/](./Mars/)
 - [Orbitecture/](./Orbitecture/)
+- [PioneeringInterstellarExplorations/](./PioneeringInterstellarExplorations/)
 - [README.md](./README.md)
 - [Standard-Space-Container/](./Standard-Space-Container/)
 
