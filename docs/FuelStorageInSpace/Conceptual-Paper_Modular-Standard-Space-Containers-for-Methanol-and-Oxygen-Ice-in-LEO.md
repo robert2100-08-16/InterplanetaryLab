@@ -116,3 +116,8 @@ Munich, Germany
 © 2024–2025 Robert Alexander Massinger, Munich, Germany. Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 ---
+
+**Acknowledgments**  
+This paper was developed with the assistance of multiple AI models, including ChatGPT-40, ChatGPT-4o (in the role of Lina, an SGI Engineer), ChatGPT-o1 (in the role of Kai, an SGI Engineer), and ChatGPT-o3-mini-high. Their contributions spanned technical research, conceptual refinement, and iterative drafting to ensure clarity, accuracy, and feasibility of the proposed modular space fuel storage system.
+
+---
