@@ -118,6 +118,6 @@ Munich, Germany
 ---
 
 **Acknowledgments**  
-This paper was developed with the assistance of multiple AI models, including ChatGPT-40, ChatGPT-4o (in the role of Lina, an SGI Engineer), ChatGPT-o1 (in the role of Kai, an SGI Engineer), and ChatGPT-o3-mini-high. Their contributions spanned technical research, conceptual refinement, and iterative drafting to ensure clarity, accuracy, and feasibility of the proposed modular space fuel storage system.
+This paper was developed with the assistance of multiple AI models, including ChatGPT-4o (Solid Recherche), ChatGPT-4o (in the role of Lina, an SGI Engineer), ChatGPT-o1 (in the role of Kai, an SGI Engineer), and ChatGPT-o3-mini-high. Their contributions encompassed technical research, conceptual refinement, and iterative drafting, ensuring clarity, accuracy, and feasibility in the design of the proposed modular space fuel storage system.  
 
 ---
