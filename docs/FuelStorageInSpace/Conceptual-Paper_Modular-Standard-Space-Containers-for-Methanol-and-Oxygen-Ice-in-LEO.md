@@ -21,7 +21,7 @@ The increasing demand for long-duration space operations and interplanetary miss
 
 ## 2. Background and Literature Review
 
-Recent advancements in cryogenic storage systems for space applications, including the International Space Station’s cryogenic experiments and in-orbit propellant depots, have demonstrated the technical viability of maintaining extreme temperature environments in space. Prior studies (e.g., Doe et al., 2022; Smith & Lee, 2023) have underscored the importance of passive thermal management and robust material selection. This paper builds upon these findings by addressing the challenges of storing methanol and oxygen in solid form, discussing the phase transition advantages, and providing a detailed review of material and thermal management strategies adopted in similar technologies.
+Recent advancements in cryogenic storage systems for space applications, including the International Space Station’s cryogenic experiments and in-orbit propellant depots, have demonstrated the technical viability of maintaining extreme temperature environments in space. Prior studies have underscored the importance of passive thermal management and robust material selection. This paper builds upon these findings by addressing the challenges of storing methanol and oxygen in solid form, discussing the phase transition advantages, and providing a detailed review of material and thermal management strategies adopted in similar technologies.
 
 ---
 
@@ -236,10 +236,7 @@ This revised conceptual framework demonstrates a comprehensive and scalable stra
 
 ## References
 
-*(Note: The following references are placeholders. Actual references should be included based on detailed literature research.)*
 
-1. Doe, J., et al. (2022). *Advances in Cryogenic Storage for Space Applications.* Journal of Space Engineering.
-2. Smith, A. & Lee, B. (2023). *Thermal Management in Low Earth Orbit: Challenges and Solutions.* International Journal of Aerospace Engineering.
 
 ---
 
