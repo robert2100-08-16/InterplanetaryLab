@@ -20,6 +20,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 
 - [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
 - [README.md](./README.md)
+- [Three-Step Evolution Towards Biomimetic and Self-Growing Structures.pdf](./Three-Step%20Evolution%20Towards%20Biomimetic%20and%20Self-Growing%20Structures.pdf)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -49,6 +50,7 @@ redistributing or reusing this content. Authorship is attributed to [Project Nam
 
 - [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
 - [README.md](./README.md)
+- [Three-Step Evolution Towards Biomimetic and Self-Growing Structures.pdf](./Three-Step%20Evolution%20Towards%20Biomimetic%20and%20Self-Growing%20Structures.pdf)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
 
