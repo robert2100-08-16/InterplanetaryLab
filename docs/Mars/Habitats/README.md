@@ -18,10 +18,10 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 
 ## Inhaltsverzeichnis für „Habitats“
 
-- [Cost_Estimation_Mars_Project_EN.pdf](./Cost_Estimation_Mars_Project_EN.pdf)
 - [Design_Rubber-Glass_House_Mars_EN.pdf](./Design_Rubber-Glass_House_Mars_EN.pdf)
 - [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
 - [Entwurf_Gummi-Glashaus_Mars_DE.pdf](./Entwurf_Gummi-Glashaus_Mars_DE.pdf)
+- [Mars-Rubber-Glass-House-Project/](./Mars-Rubber-Glass-House-Project/)
 - [README.md](./README.md)
 - [The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf](./The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf)
 - [Three-Step Evolution Towards Biomimetic and Self-Growing Structures.pdf](./Three-Step%20Evolution%20Towards%20Biomimetic%20and%20Self-Growing%20Structures.pdf)
@@ -54,10 +54,10 @@ redistributing or reusing this content. Authorship is attributed to [Project Nam
 
 ## Table of Contents for "Habitats"
 
-- [Cost_Estimation_Mars_Project_EN.pdf](./Cost_Estimation_Mars_Project_EN.pdf)
 - [Design_Rubber-Glass_House_Mars_EN.pdf](./Design_Rubber-Glass_House_Mars_EN.pdf)
 - [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
 - [Entwurf_Gummi-Glashaus_Mars_DE.pdf](./Entwurf_Gummi-Glashaus_Mars_DE.pdf)
+- [Mars-Rubber-Glass-House-Project/](./Mars-Rubber-Glass-House-Project/)
 - [README.md](./README.md)
 - [The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf](./The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf)
 - [Three-Step Evolution Towards Biomimetic and Self-Growing Structures.pdf](./Three-Step%20Evolution%20Towards%20Biomimetic%20and%20Self-Growing%20Structures.pdf)
