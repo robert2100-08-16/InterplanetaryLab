@@ -24,6 +24,7 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 - [README.md](./README.md)
 - [The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf](./The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf)
 - [Varianten_Gummi-Glashaus_Mars_DE.pdf](./Varianten_Gummi-Glashaus_Mars_DE.pdf)
+- [Varianten_Gummi-Glashaus_Mars_EN.pdf](./Varianten_Gummi-Glashaus_Mars_EN.pdf)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -57,6 +58,7 @@ redistributing or reusing this content. Authorship is attributed to [Project Nam
 - [README.md](./README.md)
 - [The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf](./The_Peoples_1000m2_Rubber-Glass_House_on_Mars_EN.pdf)
 - [Varianten_Gummi-Glashaus_Mars_DE.pdf](./Varianten_Gummi-Glashaus_Mars_DE.pdf)
+- [Varianten_Gummi-Glashaus_Mars_EN.pdf](./Varianten_Gummi-Glashaus_Mars_EN.pdf)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
 
