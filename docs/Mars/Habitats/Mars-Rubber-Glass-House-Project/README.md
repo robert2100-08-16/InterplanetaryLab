@@ -19,6 +19,9 @@ Die Urheberschaft liegt bei [Projektname / Teamname / Dein Name].
 ## Inhaltsverzeichnis für „Mars-Rubber-Glass-House-Project“
 
 - [Cost_Estimation_Mars_Project_EN.pdf](./Cost_Estimation_Mars_Project_EN.pdf)
+- [Design_Rubber-Glass_House_Mars_EN.pdf](./Design_Rubber-Glass_House_Mars_EN.pdf)
+- [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-DE:END -->
 
@@ -47,6 +50,9 @@ redistributing or reusing this content. Authorship is attributed to [Project Nam
 ## Table of Contents for "Mars-Rubber-Glass-House-Project"
 
 - [Cost_Estimation_Mars_Project_EN.pdf](./Cost_Estimation_Mars_Project_EN.pdf)
+- [Design_Rubber-Glass_House_Mars_EN.pdf](./Design_Rubber-Glass_House_Mars_EN.pdf)
+- [Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md](./Development_of_a_Mars_Habitat_Three-Step_Evolution_Towards_Biomimetic_and_Self-Growing_Structures.md)
+- [README.md](./README.md)
 
 <!-- AUTO-GENERATED-TOC-EN:END -->
 
